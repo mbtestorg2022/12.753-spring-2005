@@ -26,19 +26,189 @@ A Profile Through the Lower Crust of an Arc: Evidence for Closed-system Fraction
 
 We have analyzed trace elements (Ti, V, Cr, Sr, Zr and Y) and REE (La, Ce, Nd, Sm, Dy, Eu, Er, Yb) a total of ten samples from three locations in the Lyngen Magmatic Complex, an ophiolitic arc-system dominated by gabbroic rocks in Northern Norway. The western suite of the complex, which stretches 100-km N-S and 10 km E-W, has previously been shown to have fractionation-trends that are similar to those found at mid-ocean ridges or back-arc basins. The eastern suite has been suggested to represent the cumulate section of a boninitic arc. The two suites are separated by an oceanic shear-zone associated with rocks with "normal" arc signatures. The three sections analyzed in this study are from the western suite, the transition zone and from the eastern suite. The sections all comprise layered mafic and ultramafic cumulates shown to have different fractionation trends (Kvassnes, 1997; Hetland, 1997). The samples were selected based on petrological and geochemical diversity. We show the trace-element fractionation of the cumulates, and how the cumulate-section of the eastern suite possibly originated from several different inter-fingering magmas. Additionally, we show negative Eu-anomalies in the most evolved cumulates, indicating closed system fractionation due to the crystallization of clinopyroxene together with plagioclase.
 
-| SES # | SPEAKERS | TOPICS |
-| --- | --- | --- |
-| 1 | Dr. John Lewis, University of Arizona | Origin of Planetary Systems |
-| 2 | Dr. Gustaf Arrhenius, Scripps Institution of Oceanography | Early Earth and the Emergence of Life |
-| 3 | Dr. Jay Melosh, University of Arizona | Giant Impacts and the Evolution of the Early Earth |
-| 4 | Dr. Maria Zuber, Massachusetts Institute of Technology | New Perspectives on Ancient Mars |
-| 5 | Dr. Dick Holland, Harvard University | Why did the Composition of Seawater Change During the Phanerozoic? |
-| 6 | Dr. Ben Weiss, Massachusetts Institute of Technology | Evolution of the Martian Magnetic Field and Climate |
-| 7 | Dr. Dave Stevenson, Caltech | Earth Differentiation: A Planetary Perspective |
-| 8 | Dr. Ann Pearson, Harvard University | Unraveling The Early History Of Life: Using Genetics To Understand Molecular Markers In Archean Rocks |
-| 9 | Dr. Dave Walker, Lamont-Doherty Earth Observatory | Does the Earth's Core Leak? |
-| 10 | Dr. Meenakshi Wadhwa, Chicago Field Museum | From Dust to Terrestrial Planets: Time Scales from Short-Lived Radionuclides |
-| 11 | Dr. Jean Bédard, Geological Survey of Canada, Quebec | Origin of Archaean Cratons and Cratonic Mantle |
-| 12 | Dr. Jim Kasting, Pennsylvania State University | Environment and Life on the Early Earth |
-| 13 | Dr. Olivier Rouxel, WHOI | TBA |
-| 14 | Student Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SPEAKERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. John Lewis, University of Arizona
+{{< tdclose >}}
+{{< tdopen >}}
+Origin of Planetary Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Gustaf Arrhenius, Scripps Institution of Oceanography
+{{< tdclose >}}
+{{< tdopen >}}
+Early Earth and the Emergence of Life
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Jay Melosh, University of Arizona
+{{< tdclose >}}
+{{< tdopen >}}
+Giant Impacts and the Evolution of the Early Earth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Maria Zuber, Massachusetts Institute of Technology
+{{< tdclose >}}
+{{< tdopen >}}
+New Perspectives on Ancient Mars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Dick Holland, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+Why did the Composition of Seawater Change During the Phanerozoic?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Ben Weiss, Massachusetts Institute of Technology
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of the Martian Magnetic Field and Climate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Dave Stevenson, Caltech
+{{< tdclose >}}
+{{< tdopen >}}
+Earth Differentiation: A Planetary Perspective
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Ann Pearson, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+Unraveling The Early History Of Life: Using Genetics To Understand Molecular Markers In Archean Rocks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Dave Walker, Lamont-Doherty Earth Observatory
+{{< tdclose >}}
+{{< tdopen >}}
+Does the Earth's Core Leak?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Meenakshi Wadhwa, Chicago Field Museum
+{{< tdclose >}}
+{{< tdopen >}}
+From Dust to Terrestrial Planets: Time Scales from Short-Lived Radionuclides
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Jean Bédard, Geological Survey of Canada, Quebec
+{{< tdclose >}}
+{{< tdopen >}}
+Origin of Archaean Cratons and Cratonic Mantle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Jim Kasting, Pennsylvania State University
+{{< tdclose >}}
+{{< tdopen >}}
+Environment and Life on the Early Earth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Olivier Rouxel, WHOI
+{{< tdclose >}}
+{{< tdopen >}}
+TBA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
